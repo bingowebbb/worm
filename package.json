@@ -1,0 +1,17 @@
+{
+  "name": "dytt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dytt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zyb",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
